@@ -14,4 +14,11 @@ This repo is targeted towards two things in mind:
 
 2. Understand and implement Object oriented design to extend the modules created in this repo.
 
+
+# What if?
+
+Have you ever wondered why the equation is wx + b not xw + b or b + xw? 
+I always love to find the reason behind the equations as I hated math in my highschool for the only reason that every equations have to be memorized. But not any more. lets see why it is specifically wx + b
+
+
  
